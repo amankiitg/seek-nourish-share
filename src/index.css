@@ -103,7 +103,7 @@ All colors MUST be HSL.
   }
   
   html {
-    @apply dark;
+    /* Dark mode enabled via class in index.html */
   }
 }
 
