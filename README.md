@@ -1,4 +1,8 @@
 # Welcome to your Lovable project
+https://seek-nourish-share.lovable.app/
+
+![Screen Recording 2025-08-28 at 2 43 18 PM](https://github.com/user-attachments/assets/5a6a0929-71cd-4dcf-bad6-cb9592d6e3ec)
+
 
 ## Project info
 
